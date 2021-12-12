@@ -3,7 +3,8 @@ Building an API on nodejs with registration system, authentication, CRUD of proj
 
 ## API endpoints
 ```
-POST {
+POST 
+{
   "username": "username",
   "password": "password"
 }
