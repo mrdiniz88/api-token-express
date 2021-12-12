@@ -1,7 +1,7 @@
 # api-token-express
 Building an API on nodejs with registration system, authentication, CRUD of projects and tasks.
 
-##API endpoints
+## API endpoints
 ```
 POST {
   "username": "username",
